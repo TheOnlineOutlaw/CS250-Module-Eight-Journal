@@ -1,2 +1,2 @@
-# CS250-7-2-Portfolio-Prep
+# CS250-Module-Eight-Journal
 Was asked to create this for the class
